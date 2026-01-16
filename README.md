@@ -87,23 +87,13 @@ The system transitions from procedural to object-oriented programming, improving
 
 <div style="clear: both;"></div>
 
-<h2> Medium API Development </h2>
-<img align="left" alt="MAD" src="badges/API1.png"  width="150px"/>
-
-**NOTE:** This is the first API for gym workouts, it is still under construction. I'm using it to study, practice, and understand the API development process. If you have any suggestions, tips, or guidance, please feel free to contact me through the communication channels on my GitHub or LinkedIn.
-
-<a href="https://github.com/vgomes-p/gym-API" target="_blank">
-  <img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect">
-</a>
-
-<div style="clear: both;"></div>
 
 <h2> Advanced API Development </h2>
 <img align="left" alt="AAD" src="badges/API2.png"  width="150px"/>
 
-**NOTE:** This is a study repository. This means that most of the content wasn't created by me (reference links are at the end) and that I use it to study topics I didn't have time to delve into during the bootcamp. Access the Bootcamp quick access to see projects made by me! If you have any suggestions, tips, or guidance, please feel free to contact me through the communication channels on my GitHub or LinkedIn.
+This is the final project from the bootcamp. The proposal was to create an API using FastAPI. I chose to redesign the previous project, but in API format, using FastAPI (as proposed) and SQLAlchemy for the database.
 
-<a href="https://github.com/vgomes-p/store_api-studycase" target="_blank">
+<a href="https://github.com/vgomes-p/bank_system_api" target="_blank">
   <img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect">
 </a>
 
