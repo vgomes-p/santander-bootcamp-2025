@@ -18,7 +18,7 @@ A basic banking system built in Python as the first hands-on project of the boot
 
 | Online Discount | E-mail checker |
 | :-: | :-: |
-| <a href="https://github.com/vgomes-p/CodeChallanges_SB25/tree/Back-End/Challenges/cc00/ex00%20-%20Online%20Discount" target="_blank"><img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect"></a> | <a href="https://github.com/vgomes-p/CodeChallanges_SB25/tree/Back-End/Challenges/cc00/ex01%20-%20E-mail%20checker" target="_blank"><img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect"></a> |
+| <a href="https://github.com/vgomes-p/CodeChallanges_SB25/tree/main/Challenges/cc00/ex00%20-%20Online%20Discount" target="_blank"><img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect"></a> | <a href="https://github.com/vgomes-p/CodeChallanges_SB25/tree/main/Challenges/cc00/ex01%20-%20E-mail%20checker" target="_blank"><img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect"></a> |
 
 </tr></td></tr></table>
 
@@ -29,7 +29,7 @@ A basic banking system built in Python as the first hands-on project of the boot
 
 | Shopping Cart | Event Organizer |
 | :-: | :-: |
-| <a href="https://github.com/vgomes-p/CodeChallanges_SB25/tree/Back-End/Challenges/cc01/ex00%20-%20Shopping%20Cart" target="_blank"><img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect"></a> | <a href="https://github.com/vgomes-p/CodeChallanges_SB25/tree/Back-End/Challenges/cc01/ex01%20-%20Event%20Organizer" target="_blank"><img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect"></a> |
+| <a href="https://github.com/vgomes-p/CodeChallanges_SB25/tree/main/Challenges/cc01/ex00%20-%20Shopping%20Cart" target="_blank"><img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect"></a> | <a href="https://github.com/vgomes-p/CodeChallanges_SB25/tree/main/Challenges/cc01/ex01%20-%20Event%20Organizer" target="_blank"><img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect"></a> |
 
 </tr></td></tr></table>
 
@@ -50,7 +50,7 @@ This version improves the initial banking system with a centralized data structu
 
 | Medical Triage System | Hotel Reservation System |
 | :-: | :-: |
-| <a href="https://github.com/vgomes-p/CodeChallanges_SB25/tree/Back-End/Challenges/cc02/ex00%20-%20Medical%20Triage%20System" target="_blank"><img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect"></a> | <a href="https://github.com/vgomes-p/CodeChallanges_SB25/tree/Back-End/Challenges/cc02/ex01%20-%20Hotel%20Reservation%20System" target="_blank"><img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect"></a> |
+| <a href="https://github.com/vgomes-p/CodeChallanges_SB25/tree/main/Challenges/cc02/ex00%20-%20Medical%20Triage%20System" target="_blank"><img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect"></a> | <a href="https://github.com/vgomes-p/CodeChallanges_SB25/tree/main/Challenges/cc02/ex01%20-%20Hotel%20Reservation%20System" target="_blank"><img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect"></a> |
 
 </tr></td></tr></table>
 
@@ -71,7 +71,7 @@ The system transitions from procedural to object-oriented programming, improving
 
 | Vehicle Manager System | Restaurant Order System |
 | :-: | :-: |
-| <a href="https://github.com/vgomes-p/CodeChallanges_SB25/tree/Back-End/Challenges/cc03/ex00%20-%20Vehicle%20Manager%20System" target="_blank"><img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect"></a> | <a href="https://github.com/vgomes-p/CodeChallanges_SB25/tree/Back-End/Challenges/cc03/ex01%20-%20Restaurant%20Order%20System" target="_blank"><img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect"></a> |
+| <a href="https://github.com/vgomes-p/CodeChallanges_SB25/tree/main/Challenges/cc03/ex00%20-%20Vehicle%20Manager%20System" target="_blank"><img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect"></a> | <a href="https://github.com/vgomes-p/CodeChallanges_SB25/tree/main/Challenges/cc03/ex01%20-%20Restaurant%20Order%20System" target="_blank"><img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect"></a> |
 
 </tr></td></tr></table>
 
@@ -81,7 +81,7 @@ The system transitions from procedural to object-oriented programming, improving
 
 | Access Control System | Stock Control System |
 | :-: | :-: |
-| <a href="https://github.com/vgomes-p/CodeChallanges_SB25/tree/Back-End/Challenges/cc04/ex00%20-%20Access%20Control%20System" target="_blank"><img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect"></a> | <a href="https://github.com/vgomes-p/CodeChallanges_SB25/tree/Back-End/Challenges/cc04/ex01%20-%20Stock%20Control%20System" target="_blank"><img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect"></a> |
+| <a href="https://github.com/vgomes-p/CodeChallanges_SB25/tree/main/Challenges/cc04/ex00%20-%20Access%20Control%20System" target="_blank"><img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect"></a> | <a href="https://github.com/vgomes-p/CodeChallanges_SB25/tree/main/Challenges/cc04/ex01%20-%20Stock%20Control%20System" target="_blank"><img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect"></a> |
 
 </tr></td></tr></table>
 
